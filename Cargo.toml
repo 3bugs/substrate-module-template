@@ -9,10 +9,10 @@ default = ['std']
 std = [
     'serde',
     'codec/std',
-    'support/std',
-    'system/std',
-    'sr-primitives/std',
-    'runtime-io/std',
+    #'support/std',
+    #'system/std',
+    #'sr-primitives/std',
+    #'runtime-io/std',
 ]
 
 [dependencies.serde]
